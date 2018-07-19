@@ -1,0 +1,10 @@
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\bin\Debug\MilesToKm.exe.config
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\bin\Debug\MilesToKm.exe
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\bin\Debug\MilesToKm.pdb
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\obj\Debug\MilesToKm.Form1.resources
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\obj\Debug\MilesToKm.Properties.Resources.resources
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\obj\Debug\MilesToKm.csproj.GenerateResource.Cache
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\obj\Debug\MilesToKm.csproj.CoreCompileInputs.cache
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\obj\Debug\MilesToKm.exe
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\obj\Debug\MilesToKm.pdb
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams2\MilesToKm\MilesToKm\obj\Debug\MilesToKm.csprojResolveAssemblyReference.cache

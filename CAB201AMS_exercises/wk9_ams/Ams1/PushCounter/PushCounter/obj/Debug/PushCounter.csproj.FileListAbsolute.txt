@@ -1,0 +1,10 @@
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\bin\Debug\PushCounter.exe.config
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\bin\Debug\PushCounter.exe
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\bin\Debug\PushCounter.pdb
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\obj\Debug\PushCounter.csprojResolveAssemblyReference.cache
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\obj\Debug\PushCounter.Properties.Resources.resources
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\obj\Debug\PushCounter.csproj.GenerateResource.Cache
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\obj\Debug\PushCounter.csproj.CoreCompileInputs.cache
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\obj\Debug\PushCounter.exe
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\obj\Debug\PushCounter.pdb
+C:\Users\kdrag\Desktop\LectureDemoscab201\wk9_ams\Ams1\PushCounter\PushCounter\obj\Debug\PushCounter.Form1.resources
